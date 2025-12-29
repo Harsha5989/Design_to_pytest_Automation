@@ -1,0 +1,129 @@
+{
+  "vision_partial": [
+    {
+      "role": "vision",
+      "content": "-vl:latest' created_at='2025-12-05T11:17:01.2992777Z' done=False done_reason=None total_duration=None load_duration=None prompt_eval_count=None prompt_eval_duration=None eval_count=None eval_duration=None message=Message(role='assistant', content=' accidental', thinking=None, images=None, tool_name=None, tool_calls=None)model='qwen3-vl:latest' created_at='2025-12-05T11:17:01.6866398Z' done=False done_reason=None total_duration=None load_duration=None prompt_eval_count=None prompt_eval_duration=None eval_cou",
+      "ts": 1764934219.219232
+    },
+    {
+      "role": "vision",
+      "content": "nt=None eval_duration=None message=Message(role='assistant', content=' partial', thinking=None, images=None, tool_name=None, tool_calls=None)model='qwen3-vl:latest' created_at='2025-12-05T11:17:02.0756214Z' done=False done_reason=None total_duration=None load_duration=None prompt_eval_count=None prompt_eval_duration=None eval_count=None eval_duration=None message=Message(role='assistant', content=' uploads', thinking=None, images=None, tool_name=None, tool_calls=None)model='qwen3-vl:latest' created_at='2025",
+      "ts": 1764934219.224979
+    },
+    {
+      "role": "vision",
+      "content": "-12-05T11:17:02.4472532Z' done=False done_reason=None total_duration=None load_duration=None prompt_eval_count=None prompt_eval_duration=None eval_count=None eval_duration=None message=Message(role='assistant', content='),', thinking=None, images=None, tool_name=None, tool_calls=None)model='qwen3-vl:latest' created_at='2025-12-05T11:17:02.7750681Z' done=False done_reason=None total_duration=None load_duration=None prompt_eval_count=None prompt_eval_duration=None eval_count=None eval_duration=None message=Me",
+      "ts": 1764934219.2407339
+    },
+    {
+      "role": "vision",
+      "content": "ssage(role='assistant', content=' not', thinking=None, images=None, tool_name=None, tool_calls=None)model='qwen3-vl:latest' created_at='2025-12-05T11:17:03.136341Z' done=False done_reason=None total_duration=None load_duration=None prompt_eval_count=None prompt_eval_duration=None eval_count=None eval_duration=None message=Message(role='assistant', content=' UI', thinking=None, images=None, tool_name=None, tool_calls=None)model='qwen3-vl:latest' created_at='2025-12-05T11:17:03.4672542Z' done=False done_reaso",
+      "ts": 1764934219.252453
+    },
+    {
+      "role": "vision",
+      "content": "n=None total_duration=None load_duration=None prompt_eval_count=None prompt_eval_duration=None eval_count=None eval_duration=None message=Message(role='assistant', content=' defects', thinking=None, images=None, tool_name=None, tool_calls=None)model='qwen3-vl:latest' created_at='2025-12-05T11:17:03.7805476Z' done=False done_reason=None total_duration=None load_duration=None prompt_eval_count=None prompt_eval_duration=None eval_count=None eval_duration=None message=Message(role='assistant', content='.*', thi",
+      "ts": 1764934219.2651293
+    },
+    {
+      "role": "vision",
+      "content": "nking=None, images=None, tool_name=None, tool_calls=None)model='qwen3-vl:latest' created_at='2025-12-05T11:17:04.1487862Z' done=True done_reason='stop' total_duration=1499559684800 load_duration=40801241500 prompt_eval_count=86 prompt_eval_duration=11798317600 eval_count=4329 eval_duration=1444933897800 message=Message(role='assistant', content='', thinking=None, images=None, tool_name=None, tool_calls=None)",
+      "ts": 1764934219.274128
+    }
+  ],
+  "coder_partial": [
+    {
+      "role": "coder",
+      "content": "me=None, tool_calls=None)model='deepseek-coder-v2:16b' created_at='2025-12-05T11:25:21.7630757Z' done=False done_reason=None total_duration=None load_duration=None prompt_eval_count=None prompt_eval_duration=None eval_count=None eval_duration=None message=Message(role='assistant', content=' please', thinking=None, images=None, tool_name=None, tool_calls=None)model='deepseek-coder-v2:16b' created_at='2025-12-05T11:25:21.8922369Z' done=False done_reason=None total_duration=None load_duration=None prompt_eval_count=None prompt_eval_duration=None eval_count=None eval_duration=None message=Message(role='assistant', content=' let', thinking=None, images=None, tool_name=None, tool_calls=None)model='deepseek-coder-v2:16b' created_at='2025-12-05T11:25:22.0207908Z' done=False done_reason=None total_duration=None load_duration=None prompt_eval_count=None prompt_eval_duration=None eval_count=None eval_duration=None message=Message(role='assistant', content=' me', thinking=None, images=None, tool_name=None, tool_calls=Non",
+      "ts": 1764934219.8374357
+    },
+    {
+      "role": "coder",
+      "content": "e)model='deepseek-coder-v2:16b' created_at='2025-12-05T11:25:22.1518604Z' done=False done_reason=None total_duration=None load_duration=None prompt_eval_count=None prompt_eval_duration=None eval_count=None eval_duration=None message=Message(role='assistant', content=' know', thinking=None, images=None, tool_name=None, tool_calls=None)model='deepseek-coder-v2:16b' created_at='2025-12-05T11:25:22.3145301Z' done=False done_reason=None total_duration=None load_duration=None prompt_eval_count=None prompt_eval_duration=None eval_count=None eval_duration=None message=Message(role='assistant', content=' how', thinking=None, images=None, tool_name=None, tool_calls=None)model='deepseek-coder-v2:16b' created_at='2025-12-05T11:25:22.4906681Z' done=False done_reason=None total_duration=None load_duration=None prompt_eval_count=None prompt_eval_duration=None eval_count=None eval_duration=None message=Message(role='assistant', content=' you', thinking=None, images=None, tool_name=None, tool_calls=None)model='deepseek-coder-",
+      "ts": 1764934219.8502626
+    },
+    {
+      "role": "coder",
+      "content": "v2:16b' created_at='2025-12-05T11:25:22.6968328Z' done=False done_reason=None total_duration=None load_duration=None prompt_eval_count=None prompt_eval_duration=None eval_count=None eval_duration=None message=Message(role='assistant', content=' would', thinking=None, images=None, tool_name=None, tool_calls=None)model='deepseek-coder-v2:16b' created_at='2025-12-05T11:25:22.8667517Z' done=False done_reason=None total_duration=None load_duration=None prompt_eval_count=None prompt_eval_duration=None eval_count=None eval_duration=None message=Message(role='assistant', content=' like', thinking=None, images=None, tool_name=None, tool_calls=None)model='deepseek-coder-v2:16b' created_at='2025-12-05T11:25:23.0371033Z' done=False done_reason=None total_duration=None load_duration=None prompt_eval_count=None prompt_eval_duration=None eval_count=None eval_duration=None message=Message(role='assistant', content=' the', thinking=None, images=None, tool_name=None, tool_calls=None)model='deepseek-coder-v2:16b' created_at='20",
+      "ts": 1764934219.8611584
+    },
+    {
+      "role": "coder",
+      "content": "25-12-05T11:25:23.2181561Z' done=False done_reason=None total_duration=None load_duration=None prompt_eval_count=None prompt_eval_duration=None eval_count=None eval_duration=None message=Message(role='assistant', content=' data', thinking=None, images=None, tool_name=None, tool_calls=None)model='deepseek-coder-v2:16b' created_at='2025-12-05T11:25:23.3916895Z' done=False done_reason=None total_duration=None load_duration=None prompt_eval_count=None prompt_eval_duration=None eval_count=None eval_duration=None message=Message(role='assistant', content=' to', thinking=None, images=None, tool_name=None, tool_calls=None)model='deepseek-coder-v2:16b' created_at='2025-12-05T11:25:23.55197Z' done=False done_reason=None total_duration=None load_duration=None prompt_eval_count=None prompt_eval_duration=None eval_count=None eval_duration=None message=Message(role='assistant', content=' be', thinking=None, images=None, tool_name=None, tool_calls=None)model='deepseek-coder-v2:16b' created_at='2025-12-05T11:25:23.7486945Z' ",
+      "ts": 1764934219.8711565
+    },
+    {
+      "role": "coder",
+      "content": "done=False done_reason=None total_duration=None load_duration=None prompt_eval_count=None prompt_eval_duration=None eval_count=None eval_duration=None message=Message(role='assistant', content=' processed', thinking=None, images=None, tool_name=None, tool_calls=None)model='deepseek-coder-v2:16b' created_at='2025-12-05T11:25:23.9299595Z' done=False done_reason=None total_duration=None load_duration=None prompt_eval_count=None prompt_eval_duration=None eval_count=None eval_duration=None message=Message(role='assistant', content=' or', thinking=None, images=None, tool_name=None, tool_calls=None)model='deepseek-coder-v2:16b' created_at='2025-12-05T11:25:24.0704793Z' done=False done_reason=None total_duration=None load_duration=None prompt_eval_count=None prompt_eval_duration=None eval_count=None eval_duration=None message=Message(role='assistant', content=' what', thinking=None, images=None, tool_name=None, tool_calls=None)model='deepseek-coder-v2:16b' created_at='2025-12-05T11:25:24.2130347Z' done=False done_rea",
+      "ts": 1764934219.8741562
+    },
+    {
+      "role": "coder",
+      "content": "son=None total_duration=None load_duration=None prompt_eval_count=None prompt_eval_duration=None eval_count=None eval_duration=None message=Message(role='assistant', content=' task', thinking=None, images=None, tool_name=None, tool_calls=None)model='deepseek-coder-v2:16b' created_at='2025-12-05T11:25:24.3480071Z' done=False done_reason=None total_duration=None load_duration=None prompt_eval_count=None prompt_eval_duration=None eval_count=None eval_duration=None message=Message(role='assistant', content=' you', thinking=None, images=None, tool_name=None, tool_calls=None)model='deepseek-coder-v2:16b' created_at='2025-12-05T11:25:24.4881643Z' done=False done_reason=None total_duration=None load_duration=None prompt_eval_count=None prompt_eval_duration=None eval_count=None eval_duration=None message=Message(role='assistant', content=' have', thinking=None, images=None, tool_name=None, tool_calls=None)model='deepseek-coder-v2:16b' created_at='2025-12-05T11:25:24.6302101Z' done=False done_reason=None total_duration",
+      "ts": 1764934219.890111
+    },
+    {
+      "role": "coder",
+      "content": "=None load_duration=None prompt_eval_count=None prompt_eval_duration=None eval_count=None eval_duration=None message=Message(role='assistant', content=' in', thinking=None, images=None, tool_name=None, tool_calls=None)model='deepseek-coder-v2:16b' created_at='2025-12-05T11:25:24.7665655Z' done=False done_reason=None total_duration=None load_duration=None prompt_eval_count=None prompt_eval_duration=None eval_count=None eval_duration=None message=Message(role='assistant', content=' mind', thinking=None, images=None, tool_name=None, tool_calls=None)model='deepseek-coder-v2:16b' created_at='2025-12-05T11:25:24.9281494Z' done=False done_reason=None total_duration=None load_duration=None prompt_eval_count=None prompt_eval_duration=None eval_count=None eval_duration=None message=Message(role='assistant', content='!', thinking=None, images=None, tool_name=None, tool_calls=None)model='deepseek-coder-v2:16b' created_at='2025-12-05T11:25:25.0857753Z' done=True done_reason='stop' total_duration=79022542200 load_duration=",
+      "ts": 1764934219.906158
+    },
+    {
+      "role": "coder",
+      "content": "100796800 prompt_eval_count=4096 prompt_eval_duration=48981545000 eval_count=154 eval_duration=24617592900 message=Message(role='assistant', content='', thinking=None, images=None, tool_name=None, tool_calls=None)",
+      "ts": 1764934219.9182916
+    }
+  ],
+  "explain_partial": [
+    {
+      "role": "explain",
+      "content": "e, tool_calls=None)model='deepseek-r1:7b' created_at='2025-12-05T11:29:44.5506092Z' done=False done_reason=None total_duration=None load_duration=None prompt_eval_count=None prompt_eval_duration=None eval_count=None eval_duration=None message=Message(role='assistant', content=' error', thinking=None, images=None, tool_name=None, tool_calls=None)model='deepseek-r1:7b' created_at='2025-12-05T11:29:44.7786584Z' done=False done_reason=None total_duration=None load_duration=None prompt_eval_count=None prompt_eva",
+      "ts": 1764934228.4528894
+    },
+    {
+      "role": "explain",
+      "content": "l_duration=None eval_count=None eval_duration=None message=Message(role='assistant', content=' handling', thinking=None, images=None, tool_name=None, tool_calls=None)model='deepseek-r1:7b' created_at='2025-12-05T11:29:44.9971659Z' done=False done_reason=None total_duration=None load_duration=None prompt_eval_count=None prompt_eval_duration=None eval_count=None eval_duration=None message=Message(role='assistant', content=',', thinking=None, images=None, tool_name=None, tool_calls=None)model='deepseek-r1:7b' ",
+      "ts": 1764934228.469763
+    },
+    {
+      "role": "explain",
+      "content": "created_at='2025-12-05T11:29:45.2527481Z' done=False done_reason=None total_duration=None load_duration=None prompt_eval_count=None prompt_eval_duration=None eval_count=None eval_duration=None message=Message(role='assistant', content=' while', thinking=None, images=None, tool_name=None, tool_calls=None)model='deepseek-r1:7b' created_at='2025-12-05T11:29:45.4741195Z' done=False done_reason=None total_duration=None load_duration=None prompt_eval_count=None prompt_eval_duration=None eval_count=None eval_durat",
+      "ts": 1764934228.4879465
+    },
+    {
+      "role": "explain",
+      "content": "ion=None message=Message(role='assistant', content=' also', thinking=None, images=None, tool_name=None, tool_calls=None)model='deepseek-r1:7b' created_at='2025-12-05T11:29:45.7059468Z' done=False done_reason=None total_duration=None load_duration=None prompt_eval_count=None prompt_eval_duration=None eval_count=None eval_duration=None message=Message(role='assistant', content=' indicating', thinking=None, images=None, tool_name=None, tool_calls=None)model='deepseek-r1:7b' created_at='2025-12-05T11:29:45.9373",
+      "ts": 1764934228.514357
+    },
+    {
+      "role": "explain",
+      "content": "665Z' done=False done_reason=None total_duration=None load_duration=None prompt_eval_count=None prompt_eval_duration=None eval_count=None eval_duration=None message=Message(role='assistant', content=' areas', thinking=None, images=None, tool_name=None, tool_calls=None)model='deepseek-r1:7b' created_at='2025-12-05T11:29:46.2458598Z' done=False done_reason=None total_duration=None load_duration=None prompt_eval_count=None prompt_eval_duration=None eval_count=None eval_duration=None message=Message(role='assis",
+      "ts": 1764934228.5334067
+    },
+    {
+      "role": "explain",
+      "content": "tant', content=' where', thinking=None, images=None, tool_name=None, tool_calls=None)model='deepseek-r1:7b' created_at='2025-12-05T11:29:46.5234124Z' done=False done_reason=None total_duration=None load_duration=None prompt_eval_count=None prompt_eval_duration=None eval_count=None eval_duration=None message=Message(role='assistant', content=' improvements', thinking=None, images=None, tool_name=None, tool_calls=None)model='deepseek-r1:7b' created_at='2025-12-05T11:29:46.7358035Z' done=False done_reason=None",
+      "ts": 1764934228.541411
+    },
+    {
+      "role": "explain",
+      "content": " total_duration=None load_duration=None prompt_eval_count=None prompt_eval_duration=None eval_count=None eval_duration=None message=Message(role='assistant', content=' might', thinking=None, images=None, tool_name=None, tool_calls=None)model='deepseek-r1:7b' created_at='2025-12-05T11:29:46.9512316Z' done=False done_reason=None total_duration=None load_duration=None prompt_eval_count=None prompt_eval_duration=None eval_count=None eval_duration=None message=Message(role='assistant', content=' be', thinking=No",
+      "ts": 1764934228.5571103
+    },
+    {
+      "role": "explain",
+      "content": "ne, images=None, tool_name=None, tool_calls=None)model='deepseek-r1:7b' created_at='2025-12-05T11:29:47.1626035Z' done=False done_reason=None total_duration=None load_duration=None prompt_eval_count=None prompt_eval_duration=None eval_count=None eval_duration=None message=Message(role='assistant', content=' needed', thinking=None, images=None, tool_name=None, tool_calls=None)model='deepseek-r1:7b' created_at='2025-12-05T11:29:47.3919205Z' done=False done_reason=None total_duration=None load_duration=None pr",
+      "ts": 1764934228.587975
+    },
+    {
+      "role": "explain",
+      "content": "ompt_eval_count=None prompt_eval_duration=None eval_count=None eval_duration=None message=Message(role='assistant', content='.', thinking=None, images=None, tool_name=None, tool_calls=None)model='deepseek-r1:7b' created_at='2025-12-05T11:29:47.5989236Z' done=True done_reason='stop' total_duration=262487595500 load_duration=11114478400 prompt_eval_count=4096 prompt_eval_duration=56312148300 eval_count=864 eval_duration=191791831700 message=Message(role='assistant', content='', thinking=None, images=None, too",
+      "ts": 1764934228.59197
+    },
+    {
+      "role": "explain",
+      "content": "l_name=None, tool_calls=None)",
+      "ts": 1764934228.607905
+    }
+  ],
+  "status": "done"
+}

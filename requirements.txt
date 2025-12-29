@@ -1,0 +1,10 @@
+streamlit
+Pillow
+chromadb
+langgraph
+langgraph-tracing
+langsmith
+ollama
+faster-whisper
+whisper
+pydantic<2.10

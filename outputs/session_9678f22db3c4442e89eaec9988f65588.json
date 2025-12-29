@@ -1,0 +1,139 @@
+{
+  "vision_partial": [
+    {
+      "role": "vision",
+      "content": "-vl:latest' created_at='2025-12-05T11:17:01.2992777Z' done=False done_reason=None total_duration=None load_duration=None prompt_eval_count=None prompt_eval_duration=None eval_count=None eval_duration=None message=Message(role='assistant', content=' accidental', thinking=None, images=None, tool_name=None, tool_calls=None)model='qwen3-vl:latest' created_at='2025-12-05T11:17:01.6866398Z' done=False done_reason=None total_duration=None load_duration=None prompt_eval_count=None prompt_eval_duration=None eval_cou",
+      "ts": 1764933592.696572
+    },
+    {
+      "role": "vision",
+      "content": "nt=None eval_duration=None message=Message(role='assistant', content=' partial', thinking=None, images=None, tool_name=None, tool_calls=None)model='qwen3-vl:latest' created_at='2025-12-05T11:17:02.0756214Z' done=False done_reason=None total_duration=None load_duration=None prompt_eval_count=None prompt_eval_duration=None eval_count=None eval_duration=None message=Message(role='assistant', content=' uploads', thinking=None, images=None, tool_name=None, tool_calls=None)model='qwen3-vl:latest' created_at='2025",
+      "ts": 1764933592.696572
+    },
+    {
+      "role": "vision",
+      "content": "-12-05T11:17:02.4472532Z' done=False done_reason=None total_duration=None load_duration=None prompt_eval_count=None prompt_eval_duration=None eval_count=None eval_duration=None message=Message(role='assistant', content='),', thinking=None, images=None, tool_name=None, tool_calls=None)model='qwen3-vl:latest' created_at='2025-12-05T11:17:02.7750681Z' done=False done_reason=None total_duration=None load_duration=None prompt_eval_count=None prompt_eval_duration=None eval_count=None eval_duration=None message=Me",
+      "ts": 1764933592.7122908
+    },
+    {
+      "role": "vision",
+      "content": "ssage(role='assistant', content=' not', thinking=None, images=None, tool_name=None, tool_calls=None)model='qwen3-vl:latest' created_at='2025-12-05T11:17:03.136341Z' done=False done_reason=None total_duration=None load_duration=None prompt_eval_count=None prompt_eval_duration=None eval_count=None eval_duration=None message=Message(role='assistant', content=' UI', thinking=None, images=None, tool_name=None, tool_calls=None)model='qwen3-vl:latest' created_at='2025-12-05T11:17:03.4672542Z' done=False done_reaso",
+      "ts": 1764933592.73336
+    },
+    {
+      "role": "vision",
+      "content": "n=None total_duration=None load_duration=None prompt_eval_count=None prompt_eval_duration=None eval_count=None eval_duration=None message=Message(role='assistant', content=' defects', thinking=None, images=None, tool_name=None, tool_calls=None)model='qwen3-vl:latest' created_at='2025-12-05T11:17:03.7805476Z' done=False done_reason=None total_duration=None load_duration=None prompt_eval_count=None prompt_eval_duration=None eval_count=None eval_duration=None message=Message(role='assistant', content='.*', thi",
+      "ts": 1764933592.7453685
+    },
+    {
+      "role": "vision",
+      "content": "nking=None, images=None, tool_name=None, tool_calls=None)model='qwen3-vl:latest' created_at='2025-12-05T11:17:04.1487862Z' done=True done_reason='stop' total_duration=1499559684800 load_duration=40801241500 prompt_eval_count=86 prompt_eval_duration=11798317600 eval_count=4329 eval_duration=1444933897800 message=Message(role='assistant', content='', thinking=None, images=None, tool_name=None, tool_calls=None)",
+      "ts": 1764933592.757059
+    }
+  ],
+  "coder_partial": [
+    {
+      "role": "coder",
+      "content": ", tool_name=None, tool_calls=None)model='deepseek-coder-v2:16b' created_at='2025-12-05T11:19:11.8325749Z' done=False done_reason=None total_duration=None load_duration=None prompt_eval_count=None prompt_eval_duration=None eval_count=None eval_duration=None message=Message(role='assistant', content=' For', thinking=None, images=None, tool_name=None, tool_calls=None)model='deepseek-coder-v2:16b' created_at='2025-12-05T11:19:11.9662677Z' done=False done_reason=None total_duration=None load_duration=None prompt_eval_count=None prompt_eval_duration=None eval_count=None eval_duration=None message=Message(role='assistant', content=' workflows', thinking=None, images=None, tool_name=None, tool_calls=None)model='deepseek-coder-v2:16b' created_at='2025-12-05T11:19:12.1028683Z' done=False done_reason=None total_duration=None load_duration=None prompt_eval_count=None prompt_eval_duration=None eval_count=None eval_duration=None message=Message(role='assistant', content=' involving', thinking=None, images=None, tool_name=N",
+      "ts": 1764933594.2631772
+    },
+    {
+      "role": "coder",
+      "content": "one, tool_calls=None)model='deepseek-coder-v2:16b' created_at='2025-12-05T11:19:12.2714967Z' done=False done_reason=None total_duration=None load_duration=None prompt_eval_count=None prompt_eval_duration=None eval_count=None eval_duration=None message=Message(role='assistant', content=' multiple', thinking=None, images=None, tool_name=None, tool_calls=None)model='deepseek-coder-v2:16b' created_at='2025-12-05T11:19:12.4417208Z' done=False done_reason=None total_duration=None load_duration=None prompt_eval_count=None prompt_eval_duration=None eval_count=None eval_duration=None message=Message(role='assistant', content=' systems', thinking=None, images=None, tool_name=None, tool_calls=None)model='deepseek-coder-v2:16b' created_at='2025-12-05T11:19:12.6068346Z' done=False done_reason=None total_duration=None load_duration=None prompt_eval_count=None prompt_eval_duration=None eval_count=None eval_duration=None message=Message(role='assistant', content=',', thinking=None, images=None, tool_name=None, tool_calls=Non",
+      "ts": 1764933594.2746892
+    },
+    {
+      "role": "coder",
+      "content": "e)model='deepseek-coder-v2:16b' created_at='2025-12-05T11:19:12.7729542Z' done=False done_reason=None total_duration=None load_duration=None prompt_eval_count=None prompt_eval_duration=None eval_count=None eval_duration=None message=Message(role='assistant', content=' it', thinking=None, images=None, tool_name=None, tool_calls=None)model='deepseek-coder-v2:16b' created_at='2025-12-05T11:19:12.9348593Z' done=False done_reason=None total_duration=None load_duration=None prompt_eval_count=None prompt_eval_duration=None eval_count=None eval_duration=None message=Message(role='assistant', content=\"'\", thinking=None, images=None, tool_name=None, tool_calls=None)model='deepseek-coder-v2:16b' created_at='2025-12-05T11:19:13.069731Z' done=False done_reason=None total_duration=None load_duration=None prompt_eval_count=None prompt_eval_duration=None eval_count=None eval_duration=None message=Message(role='assistant', content='s', thinking=None, images=None, tool_name=None, tool_calls=None)model='deepseek-coder-v2:16b' c",
+      "ts": 1764933594.2856917
+    },
+    {
+      "role": "coder",
+      "content": "reated_at='2025-12-05T11:19:13.2050985Z' done=False done_reason=None total_duration=None load_duration=None prompt_eval_count=None prompt_eval_duration=None eval_count=None eval_duration=None message=Message(role='assistant', content=' crucial', thinking=None, images=None, tool_name=None, tool_calls=None)model='deepseek-coder-v2:16b' created_at='2025-12-05T11:19:13.3318516Z' done=False done_reason=None total_duration=None load_duration=None prompt_eval_count=None prompt_eval_duration=None eval_count=None eval_duration=None message=Message(role='assistant', content=' to', thinking=None, images=None, tool_name=None, tool_calls=None)model='deepseek-coder-v2:16b' created_at='2025-12-05T11:19:13.462461Z' done=False done_reason=None total_duration=None load_duration=None prompt_eval_count=None prompt_eval_duration=None eval_count=None eval_duration=None message=Message(role='assistant', content=' have', thinking=None, images=None, tool_name=None, tool_calls=None)model='deepseek-coder-v2:16b' created_at='2025-12-05T",
+      "ts": 1764933594.296608
+    },
+    {
+      "role": "coder",
+      "content": "11:19:13.5995643Z' done=False done_reason=None total_duration=None load_duration=None prompt_eval_count=None prompt_eval_duration=None eval_count=None eval_duration=None message=Message(role='assistant', content=' clear', thinking=None, images=None, tool_name=None, tool_calls=None)model='deepseek-coder-v2:16b' created_at='2025-12-05T11:19:13.736122Z' done=False done_reason=None total_duration=None load_duration=None prompt_eval_count=None prompt_eval_duration=None eval_count=None eval_duration=None message=Message(role='assistant', content=' communication', thinking=None, images=None, tool_name=None, tool_calls=None)model='deepseek-coder-v2:16b' created_at='2025-12-05T11:19:13.881371Z' done=False done_reason=None total_duration=None load_duration=None prompt_eval_count=None prompt_eval_duration=None eval_count=None eval_duration=None message=Message(role='assistant', content=' and', thinking=None, images=None, tool_name=None, tool_calls=None)model='deepseek-coder-v2:16b' created_at='2025-12-05T11:19:14.085508",
+      "ts": 1764933594.3092706
+    },
+    {
+      "role": "coder",
+      "content": "9Z' done=False done_reason=None total_duration=None load_duration=None prompt_eval_count=None prompt_eval_duration=None eval_count=None eval_duration=None message=Message(role='assistant', content=' integration', thinking=None, images=None, tool_name=None, tool_calls=None)model='deepseek-coder-v2:16b' created_at='2025-12-05T11:19:14.2438635Z' done=False done_reason=None total_duration=None load_duration=None prompt_eval_count=None prompt_eval_duration=None eval_count=None eval_duration=None message=Message(role='assistant', content=' points', thinking=None, images=None, tool_name=None, tool_calls=None)model='deepseek-coder-v2:16b' created_at='2025-12-05T11:19:14.4152241Z' done=False done_reason=None total_duration=None load_duration=None prompt_eval_count=None prompt_eval_duration=None eval_count=None eval_duration=None message=Message(role='assistant', content=' that', thinking=None, images=None, tool_name=None, tool_calls=None)model='deepseek-coder-v2:16b' created_at='2025-12-05T11:19:14.5940126Z' done=Fals",
+      "ts": 1764933594.3226275
+    },
+    {
+      "role": "coder",
+      "content": "e done_reason=None total_duration=None load_duration=None prompt_eval_count=None prompt_eval_duration=None eval_count=None eval_duration=None message=Message(role='assistant', content=' allow', thinking=None, images=None, tool_name=None, tool_calls=None)model='deepseek-coder-v2:16b' created_at='2025-12-05T11:19:14.8861433Z' done=False done_reason=None total_duration=None load_duration=None prompt_eval_count=None prompt_eval_duration=None eval_count=None eval_duration=None message=Message(role='assistant', content=' for', thinking=None, images=None, tool_name=None, tool_calls=None)model='deepseek-coder-v2:16b' created_at='2025-12-05T11:19:15.0534092Z' done=False done_reason=None total_duration=None load_duration=None prompt_eval_count=None prompt_eval_duration=None eval_count=None eval_duration=None message=Message(role='assistant', content=' seamless', thinking=None, images=None, tool_name=None, tool_calls=None)model='deepseek-coder-v2:16b' created_at='2025-12-05T11:19:15.2001542Z' done=False done_reason=None",
+      "ts": 1764933594.3379338
+    },
+    {
+      "role": "coder",
+      "content": " total_duration=None load_duration=None prompt_eval_count=None prompt_eval_duration=None eval_count=None eval_duration=None message=Message(role='assistant', content=' error', thinking=None, images=None, tool_name=None, tool_calls=None)model='deepseek-coder-v2:16b' created_at='2025-12-05T11:19:15.3241466Z' done=False done_reason=None total_duration=None load_duration=None prompt_eval_count=None prompt_eval_duration=None eval_count=None eval_duration=None message=Message(role='assistant', content=' detection', thinking=None, images=None, tool_name=None, tool_calls=None)model='deepseek-coder-v2:16b' created_at='2025-12-05T11:19:15.4470538Z' done=False done_reason=None total_duration=None load_duration=None prompt_eval_count=None prompt_eval_duration=None eval_count=None eval_duration=None message=Message(role='assistant', content=' and', thinking=None, images=None, tool_name=None, tool_calls=None)model='deepseek-coder-v2:16b' created_at='2025-12-05T11:19:15.569125Z' done=False done_reason=None total_duration=No",
+      "ts": 1764933594.3504248
+    },
+    {
+      "role": "coder",
+      "content": "ne load_duration=None prompt_eval_count=None prompt_eval_duration=None eval_count=None eval_duration=None message=Message(role='assistant', content=' correction', thinking=None, images=None, tool_name=None, tool_calls=None)model='deepseek-coder-v2:16b' created_at='2025-12-05T11:19:15.6889615Z' done=False done_reason=None total_duration=None load_duration=None prompt_eval_count=None prompt_eval_duration=None eval_count=None eval_duration=None message=Message(role='assistant', content=' across', thinking=None, images=None, tool_name=None, tool_calls=None)model='deepseek-coder-v2:16b' created_at='2025-12-05T11:19:15.8118241Z' done=False done_reason=None total_duration=None load_duration=None prompt_eval_count=None prompt_eval_duration=None eval_count=None eval_duration=None message=Message(role='assistant', content=' different', thinking=None, images=None, tool_name=None, tool_calls=None)model='deepseek-coder-v2:16b' created_at='2025-12-05T11:19:15.9649669Z' done=False done_reason=None total_duration=None load_d",
+      "ts": 1764933594.3656187
+    },
+    {
+      "role": "coder",
+      "content": "uration=None prompt_eval_count=None prompt_eval_duration=None eval_count=None eval_duration=None message=Message(role='assistant', content=' platforms', thinking=None, images=None, tool_name=None, tool_calls=None)model='deepseek-coder-v2:16b' created_at='2025-12-05T11:19:16.1239797Z' done=False done_reason=None total_duration=None load_duration=None prompt_eval_count=None prompt_eval_duration=None eval_count=None eval_duration=None message=Message(role='assistant', content='.', thinking=None, images=None, tool_name=None, tool_calls=None)model='deepseek-coder-v2:16b' created_at='2025-12-05T11:19:16.306038Z' done=True done_reason='stop' total_duration=131751834900 load_duration=20254954300 prompt_eval_count=4096 prompt_eval_duration=48801360100 eval_count=380 eval_duration=56723753700 message=Message(role='assistant', content='', thinking=None, images=None, tool_name=None, tool_calls=None)",
+      "ts": 1764933594.377619
+    }
+  ],
+  "explain_partial": [
+    {
+      "role": "coder",
+      "content": "one, tool_calls=None)model='deepseek-coder-v2:16b' created_at='2025-12-05T11:19:12.2714967Z' done=False done_reason=None total_duration=None load_duration=None prompt_eval_count=None prompt_eval_duration=None eval_count=None eval_duration=None message=Message(role='assistant', content=' multiple', thinking=None, images=None, tool_name=None, tool_calls=None)model='deepseek-coder-v2:16b' created_at='2025-12-05T11:19:12.4417208Z' done=False done_reason=None total_duration=None load_duration=None prompt_eval_count=None prompt_eval_duration=None eval_count=None eval_duration=None message=Message(role='assistant', content=' systems', thinking=None, images=None, tool_name=None, tool_calls=None)model='deepseek-coder-v2:16b' created_at='2025-12-05T11:19:12.6068346Z' done=False done_reason=None total_duration=None load_duration=None prompt_eval_count=None prompt_eval_duration=None eval_count=None eval_duration=None message=Message(role='assistant', content=',', thinking=None, images=None, tool_name=None, tool_calls=Non",
+      "ts": 1764933594.2746892
+    },
+    {
+      "role": "coder",
+      "content": "e)model='deepseek-coder-v2:16b' created_at='2025-12-05T11:19:12.7729542Z' done=False done_reason=None total_duration=None load_duration=None prompt_eval_count=None prompt_eval_duration=None eval_count=None eval_duration=None message=Message(role='assistant', content=' it', thinking=None, images=None, tool_name=None, tool_calls=None)model='deepseek-coder-v2:16b' created_at='2025-12-05T11:19:12.9348593Z' done=False done_reason=None total_duration=None load_duration=None prompt_eval_count=None prompt_eval_duration=None eval_count=None eval_duration=None message=Message(role='assistant', content=\"'\", thinking=None, images=None, tool_name=None, tool_calls=None)model='deepseek-coder-v2:16b' created_at='2025-12-05T11:19:13.069731Z' done=False done_reason=None total_duration=None load_duration=None prompt_eval_count=None prompt_eval_duration=None eval_count=None eval_duration=None message=Message(role='assistant', content='s', thinking=None, images=None, tool_name=None, tool_calls=None)model='deepseek-coder-v2:16b' c",
+      "ts": 1764933594.2856917
+    },
+    {
+      "role": "coder",
+      "content": "reated_at='2025-12-05T11:19:13.2050985Z' done=False done_reason=None total_duration=None load_duration=None prompt_eval_count=None prompt_eval_duration=None eval_count=None eval_duration=None message=Message(role='assistant', content=' crucial', thinking=None, images=None, tool_name=None, tool_calls=None)model='deepseek-coder-v2:16b' created_at='2025-12-05T11:19:13.3318516Z' done=False done_reason=None total_duration=None load_duration=None prompt_eval_count=None prompt_eval_duration=None eval_count=None eval_duration=None message=Message(role='assistant', content=' to', thinking=None, images=None, tool_name=None, tool_calls=None)model='deepseek-coder-v2:16b' created_at='2025-12-05T11:19:13.462461Z' done=False done_reason=None total_duration=None load_duration=None prompt_eval_count=None prompt_eval_duration=None eval_count=None eval_duration=None message=Message(role='assistant', content=' have', thinking=None, images=None, tool_name=None, tool_calls=None)model='deepseek-coder-v2:16b' created_at='2025-12-05T",
+      "ts": 1764933594.296608
+    },
+    {
+      "role": "coder",
+      "content": "11:19:13.5995643Z' done=False done_reason=None total_duration=None load_duration=None prompt_eval_count=None prompt_eval_duration=None eval_count=None eval_duration=None message=Message(role='assistant', content=' clear', thinking=None, images=None, tool_name=None, tool_calls=None)model='deepseek-coder-v2:16b' created_at='2025-12-05T11:19:13.736122Z' done=False done_reason=None total_duration=None load_duration=None prompt_eval_count=None prompt_eval_duration=None eval_count=None eval_duration=None message=Message(role='assistant', content=' communication', thinking=None, images=None, tool_name=None, tool_calls=None)model='deepseek-coder-v2:16b' created_at='2025-12-05T11:19:13.881371Z' done=False done_reason=None total_duration=None load_duration=None prompt_eval_count=None prompt_eval_duration=None eval_count=None eval_duration=None message=Message(role='assistant', content=' and', thinking=None, images=None, tool_name=None, tool_calls=None)model='deepseek-coder-v2:16b' created_at='2025-12-05T11:19:14.085508",
+      "ts": 1764933594.3092706
+    },
+    {
+      "role": "coder",
+      "content": "9Z' done=False done_reason=None total_duration=None load_duration=None prompt_eval_count=None prompt_eval_duration=None eval_count=None eval_duration=None message=Message(role='assistant', content=' integration', thinking=None, images=None, tool_name=None, tool_calls=None)model='deepseek-coder-v2:16b' created_at='2025-12-05T11:19:14.2438635Z' done=False done_reason=None total_duration=None load_duration=None prompt_eval_count=None prompt_eval_duration=None eval_count=None eval_duration=None message=Message(role='assistant', content=' points', thinking=None, images=None, tool_name=None, tool_calls=None)model='deepseek-coder-v2:16b' created_at='2025-12-05T11:19:14.4152241Z' done=False done_reason=None total_duration=None load_duration=None prompt_eval_count=None prompt_eval_duration=None eval_count=None eval_duration=None message=Message(role='assistant', content=' that', thinking=None, images=None, tool_name=None, tool_calls=None)model='deepseek-coder-v2:16b' created_at='2025-12-05T11:19:14.5940126Z' done=Fals",
+      "ts": 1764933594.3226275
+    },
+    {
+      "role": "coder",
+      "content": "e done_reason=None total_duration=None load_duration=None prompt_eval_count=None prompt_eval_duration=None eval_count=None eval_duration=None message=Message(role='assistant', content=' allow', thinking=None, images=None, tool_name=None, tool_calls=None)model='deepseek-coder-v2:16b' created_at='2025-12-05T11:19:14.8861433Z' done=False done_reason=None total_duration=None load_duration=None prompt_eval_count=None prompt_eval_duration=None eval_count=None eval_duration=None message=Message(role='assistant', content=' for', thinking=None, images=None, tool_name=None, tool_calls=None)model='deepseek-coder-v2:16b' created_at='2025-12-05T11:19:15.0534092Z' done=False done_reason=None total_duration=None load_duration=None prompt_eval_count=None prompt_eval_duration=None eval_count=None eval_duration=None message=Message(role='assistant', content=' seamless', thinking=None, images=None, tool_name=None, tool_calls=None)model='deepseek-coder-v2:16b' created_at='2025-12-05T11:19:15.2001542Z' done=False done_reason=None",
+      "ts": 1764933594.3379338
+    },
+    {
+      "role": "coder",
+      "content": " total_duration=None load_duration=None prompt_eval_count=None prompt_eval_duration=None eval_count=None eval_duration=None message=Message(role='assistant', content=' error', thinking=None, images=None, tool_name=None, tool_calls=None)model='deepseek-coder-v2:16b' created_at='2025-12-05T11:19:15.3241466Z' done=False done_reason=None total_duration=None load_duration=None prompt_eval_count=None prompt_eval_duration=None eval_count=None eval_duration=None message=Message(role='assistant', content=' detection', thinking=None, images=None, tool_name=None, tool_calls=None)model='deepseek-coder-v2:16b' created_at='2025-12-05T11:19:15.4470538Z' done=False done_reason=None total_duration=None load_duration=None prompt_eval_count=None prompt_eval_duration=None eval_count=None eval_duration=None message=Message(role='assistant', content=' and', thinking=None, images=None, tool_name=None, tool_calls=None)model='deepseek-coder-v2:16b' created_at='2025-12-05T11:19:15.569125Z' done=False done_reason=None total_duration=No",
+      "ts": 1764933594.3504248
+    },
+    {
+      "role": "coder",
+      "content": "ne load_duration=None prompt_eval_count=None prompt_eval_duration=None eval_count=None eval_duration=None message=Message(role='assistant', content=' correction', thinking=None, images=None, tool_name=None, tool_calls=None)model='deepseek-coder-v2:16b' created_at='2025-12-05T11:19:15.6889615Z' done=False done_reason=None total_duration=None load_duration=None prompt_eval_count=None prompt_eval_duration=None eval_count=None eval_duration=None message=Message(role='assistant', content=' across', thinking=None, images=None, tool_name=None, tool_calls=None)model='deepseek-coder-v2:16b' created_at='2025-12-05T11:19:15.8118241Z' done=False done_reason=None total_duration=None load_duration=None prompt_eval_count=None prompt_eval_duration=None eval_count=None eval_duration=None message=Message(role='assistant', content=' different', thinking=None, images=None, tool_name=None, tool_calls=None)model='deepseek-coder-v2:16b' created_at='2025-12-05T11:19:15.9649669Z' done=False done_reason=None total_duration=None load_d",
+      "ts": 1764933594.3656187
+    },
+    {
+      "role": "coder",
+      "content": "uration=None prompt_eval_count=None prompt_eval_duration=None eval_count=None eval_duration=None message=Message(role='assistant', content=' platforms', thinking=None, images=None, tool_name=None, tool_calls=None)model='deepseek-coder-v2:16b' created_at='2025-12-05T11:19:16.1239797Z' done=False done_reason=None total_duration=None load_duration=None prompt_eval_count=None prompt_eval_duration=None eval_count=None eval_duration=None message=Message(role='assistant', content='.', thinking=None, images=None, tool_name=None, tool_calls=None)model='deepseek-coder-v2:16b' created_at='2025-12-05T11:19:16.306038Z' done=True done_reason='stop' total_duration=131751834900 load_duration=20254954300 prompt_eval_count=4096 prompt_eval_duration=48801360100 eval_count=380 eval_duration=56723753700 message=Message(role='assistant', content='', thinking=None, images=None, tool_name=None, tool_calls=None)",
+      "ts": 1764933594.377619
+    },
+    {
+      "role": "explain",
+      "content": "[LLM ERROR]",
+      "ts": 1764933594.3876228
+    }
+  ],
+  "status": "done"
+}
